@@ -1,1 +1,1 @@
-print("this is python class")
+print("this is python session")
